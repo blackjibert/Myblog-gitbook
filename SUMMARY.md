@@ -1,7 +1,6 @@
 # Table of contents
 
-* [helloworld](README.md)
-* [this is a test](this-is-a-test.md)
+* [欢迎来到我的blog](README.md)
 
 ## 学习linux
 

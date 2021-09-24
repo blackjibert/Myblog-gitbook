@@ -1,8 +1,10 @@
 ---
-description: this is a test
+description: 笔名Jibert
 ---
 
-# helloworld
+# 欢迎来到我的blog
 
-MyBlog
+目前在认真研读论文！
+
+
 
