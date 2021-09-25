@@ -6,4 +6,5 @@
 
 * [机器学习的定义](wu-en-da/xue-xi-ri-ji-01.md)
 * [监督学习](wu-en-da/xue-xi-ri-ji-02.md)
+* [无监督学习](wu-en-da/wu-jian-du-xue-xi.md)
 
