@@ -1,6 +1,6 @@
 # Table of contents
 
-* [欢迎来到我的Blog](README.md)
+* [我的Blog](README.md)
 
 ## 机器学习笔记 <a id="wu-en-da"></a>
 
